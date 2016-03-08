@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+a {
+	color: gray;
+}
+h1 {
+	font-family: helvetica ;
+}
+p {
+	font-family: helvetica;
+} 
+a {
+	text-decoration: none;
+	font-family: helvetica; 
+}
+#header {
+	padding-top:50px;
+}
+#about {
+	display: block;
+} 
+#left {
+	float: left;
+	height: 500px;
+	width: 400px;
+	background-color:white;
+	clear: both;
+}
+#right {
+	float: right;
+	height: 500px;
+	width: 400px;
+	background-color:white;
+	
+} 
+td {
+	font-family:helvetica;
+	font-size:12px;
+}
